@@ -13,3 +13,8 @@ This repository contains the work of the Emotion AI team for the COMP0087: Stati
 - `Finetuning/`: Scripts and results from fine-tuning our models for improved empathetic responses.
 - `Human Evaluation/`: Methodology and results from human evaluation studies assessing chatbot performance.
 - `In-Context Learning/`: Experiments and findings on in-context learning to the chatbot understanding.
+
+
+## Getting Started
+
+To begin using this repository, please follow the setup instructions detailed in each sub-directory to properly configure your environment.
