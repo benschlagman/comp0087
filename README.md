@@ -5,6 +5,7 @@
 
 This repository contains the work of the Emotion AI team for the COMP0087: Statistical Natural Language Processing module at University College London for the term T2 of the academic year 23/24.
 
+[INSERT BRIEF PROJECT DESCRIPTION, OUR SOLUTION AND SUMMARY]
 
 ## Directory Structure
 
