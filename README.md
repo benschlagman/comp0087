@@ -1,4 +1,5 @@
 # COMP0087: Emotion AI Team Repository
+# Refining Empathy in Chatbots: Fine-Tuning, In-Context Learning, and the Critical Role of Human Evaluation
 
 ## Project Overview
 
