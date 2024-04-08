@@ -1,0 +1,6 @@
+USER: With all the layoffs happening, I'm stressed I might be next. I can't stop worrying.
+SUPPORTER: I know how you feel, I've been in this situation before and I'm not going to quit. It's hard to quit because you are being held accountable. I would suggest going for a walk, and taking a walk outside for a while.
+USER: What else can I do to face not only the feeling, but also to not be fired? I don´t know what else to do
+SUPPORTER: I think you should try to start exercising your rights and self care and be positive, and try to stop worrying about things.
+USER: Which activity do you suggest?
+SUPPORTER: I suggest exercising, and it's important that you do not forget to do that.

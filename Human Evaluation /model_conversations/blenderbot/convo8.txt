@@ -1,0 +1,10 @@
+USER: One of my coworkers is incredibly rude to me, and it's making work miserable.
+SUPPORTER: i'm sorry to hear that. can you tell me more about it?
+USER: Every time I say something, he tells me I'm wrong and responds in the most hostile way
+SUPPORTER: i'm sorry to hear that. i know it can be hard to hear someone say things you don't like.
+USER: I'm worried that this might get worse
+SUPPORTER: i have had that happen before. i had to move on to a new job and my coworkers were really rude to me too. i am glad you are able to talk to someone about it.
+USER: But I don´t know with whom I can talk 
+SUPPORTER: you can discuss it with someone else. do you have a supervisor or a counselor you could talk to?
+USER: Human Resources
+SUPPORTER: i think that it would be helpful for you to talk to a professional.

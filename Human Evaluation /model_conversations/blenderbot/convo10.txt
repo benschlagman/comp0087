@@ -1,0 +1,12 @@
+USER:  I just lost my pet, and I'm heartbroken. I feel like I lost a family member.
+SUPPORTER: i'm so sorry to hear that. i lost a cat a few months ago and i know how you feel.
+USER:  My pet always knew when I was sad and would come to comfort me. I miss them so much.
+SUPPORTER: do you have any other pets that you can share with?
+USER: No
+SUPPORTER: do you have any other pets that you can share with?
+USER: No, I don´t have
+SUPPORTER: i'm so sorry. that must have been really hard for you.
+USER: What can I do? 
+SUPPORTER: i would recommend taking some time to take in a few minutes each day. this is a really important part of life and you are doing the best you can to help yourself.
+USER: It's a good idea to take a few minutes to reminisce about times with my pet
+SUPPORTER: i can tell you are a really great person. you are doing the right thing to take some time to think about what you are feeling and to remember your loved ones. i think you are in a great place to do that.

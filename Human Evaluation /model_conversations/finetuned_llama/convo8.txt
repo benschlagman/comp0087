@@ -1,0 +1,14 @@
+USER: I've been feeling so overwhelmed with school lately. The pressure to perform well in all my classes is really getting to me.
+SUPPORTER: It sounds like you need some help managing your stress levels and finding ways to relax. Have you tried any of the following? ) Exercise - this can be anything from going for a walk, jog or bike ride, to doing yoga or weight training at home. ) Meditation - there are many apps that will guide you through med
+USER: I already exercise, and I don't really like yoga. It's just that there is a constant pressure to perfrom well in my classes, and I end up getting super stressed and sleeping poorly because of it
+SUPPORTER: I understand how difficult it must feel when you have such high expectations placed upon you by yourself and others. What would happen if you were to take one day off each week where you didn't do any work on your studies? Would that make things better or worse?
+USER: I think that might help a bit. Lately I have been spending all of my time studying or exercising so I haven't really had much time to do something fun
+SUPPORTER: That makes sense! Do you enjoy reading books? If not then maybe try listening to podcasts instead. There are plenty out there about self-improvement which could give you ideas on how to deal with stress.
+USER: I like books, but I stopped reading once school started. Mainly because of the constant stream of assignments and exams. It feels like as soon as I finish one thing, there's another deadline looming
+SUPPORTER: Maybe you should set aside an hour every night before bedtime to read a chapter or two of whatever book you choose. This way you get some quiet time away from everything else.
+USER: That sounds good. I have also had a problem of staying up too late studying so maybe this could motivate me to go to bed earlier
+SUPPORTER: Yes, having a routine helps keep us organised and focused. Try setting alarms throughout the day to remind you what needs to be done next.
+USER: So I should use alarms in order to better organize my day?
+SUPPORTER: Okay, thank you for talking with me today!
+USER: Ok, thank you bye
+SUPPORTER: Bye

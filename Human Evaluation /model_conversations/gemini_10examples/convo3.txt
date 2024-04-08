@@ -1,0 +1,14 @@
+USER: I've been really struggling financially lately, and it feels like things are just getting worse. I don't know what to do.
+SUPPORTER:  Financial struggles can be incredibly stressful. Have you considered reaching out to a financial advisor or credit counselor for guidance?
+USER: No, I don't think I could pay them. I lost my job a few months ago and even though I have been applying like crazy I still haven't found a new one
+SUPPORTER:  Losing a job can be a major setback, and it's understandable that you're feeling overwhelmed. There are free or low-cost resources available, such as your local unemployment office or non-profit credit counseling agencies.
+USER: I've looked into a few things, but I'm not sure where to start or what I'm even eligible for. It all feels overwhelming.
+SUPPORTER:  Overwhelm is a common reaction when facing financial challenges. Consider reaching out to a trusted friend or family member for support. They may be able to provide emotional encouragement and help you navigate the available resources.
+USER: That would be helpful, I guess. I just never thought I'd be in this position, you know?
+SUPPORTER:  It's understandable to feel this way. Financial setbacks can happen to anyone, and it's important to remember that you're not alone. Seeking support from loved ones and exploring available resources can help you overcome this challenge.
+USER: I've been so caught up in the day-to-day, I haven't had much chance to think long-term. I guess getting a stable job is the main goal, but even that feels out of reach right now.
+SUPPORTER:  Focusing on short-term goals can help you manage the immediate challenges. While finding a stable job is important, it's also crucial to address your financial situation. Consider reaching out to non-profit credit counseling agencies or government assistance programs for guidance and support.
+USER: Ok, I will try to find something in my area
+SUPPORTER:  Reaching out for support is a courageous step. Remember that you're not alone, and there are resources available to assist you.
+USER: bye
+SUPPORTER:  Take care, and remember that seeking support is a sign of strength.

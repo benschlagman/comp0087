@@ -1,0 +1,14 @@
+USER: Lately, I've been feeling really isolated. I moved to a new city a few months ago for work, and it's been hard to make any real connections here.
+SUPPORTER:  Moving to a new city can be tough. Have you tried joining any social groups or taking classes to meet new people?
+USER: I've tried attending a few local events and even joined some groups online, but nothing's really clicked. It often feels like everyone already has their friend groups established, making it hard to fit in.
+SUPPORTER:  It's understandable to feel that way. It takes time to build new friendships. Keep putting yourself out there, and eventually, you'll find your people.
+USER: Thank you. I have some social anxiety, so the whole process has been pretty draining
+SUPPORTER:  Social anxiety can definitely make it harder. Remember to be patient with yourself and take things at your own pace. There are also support groups and therapists who can help you manage your anxiety and build confidence.
+USER: That's true. I have been trying to branch out and go to parties but have had a hard time, I'm naturally more of a calm person
+SUPPORTER:  It's okay to be more reserved. You can still enjoy parties and social events in your own way. Try attending events with a friend or family member for support, or focus on connecting with people one-on-one in smaller settings.
+USER: Ok, maybe I could also try to find clubs related to my hobbies
+SUPPORTER:  That's a great idea! Joining clubs related to your hobbies is a fantastic way to meet like-minded people who share your interests. You'll have a built-in conversation starter and can connect with others who enjoy the same activities you do.
+USER: True! It's just been hard feeling so alone in a new place. 
+SUPPORTER:  It's completely understandable to feel isolated when you're in a new place. Remember that building a support system takes time and effort. Be patient with yourself and keep putting yourself out there. Join social groups, attend events, and strike up conversations with people you meet. Gradually, you'll build connections and create a sense of belonging in your new city.
+USER: I will , thanks
+SUPPORTER:  You're welcome. Remember, you're not alone in this journey. Many people experience feelings of isolation when they move to a new place. By staying positive, being proactive, and seeking support when needed, you'll eventually build a strong network of friends and connections in your new city.

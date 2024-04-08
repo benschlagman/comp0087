@@ -1,0 +1,16 @@
+USER: I've been feeling so overwhelmed with school lately. The pressure to perform well in all my classes is really getting to me.
+SUPPORTER:  I can understand that. School can be stressful, especially when you're feeling pressure to perform well.
+USER: the constant stream of assignments and exams is really getting to me. It feels like as soon as I finish one thing, there's another deadline looming. I'm scared of falling behind or not living up to expectations.
+SUPPORTER:  It's understandable to feel overwhelmed when you have a lot of assignments and exams. It's important to remember that you're not alone and that there are people who can help you.
+USER: Who can help me?
+SUPPORTER:  There are a number of people who can help you, including your teachers, counselors, and friends.
+USER: I have been thinking of joining a study group, but I worry that it might make me feel more behind by comparing myself with others
+SUPPORTER:  It's understandable to be hesitant about joining a study group, but it can actually be a great way to improve your understanding of the material and reduce stress.
+USER: Maybe I should give it a shot. I just want to find some way to manage all this stress better.
+SUPPORTER:  Joining a study group can be a great way to manage stress by providing support and accountability.
+USER: Ok, I will look into it. Is there anything else I could be doing?
+SUPPORTER:  In addition to joining a study group, there are a number of other things you can do to manage stress, such as getting enough sleep, eating healthy foods, and exercising regularly.
+USER: I have been sleeping very poorly recently, so maybe that would help
+SUPPORTER:  Getting enough sleep is essential for managing stress. Aim for 7-8 hours of sleep each night.
+USER: Ok, I will try that. Thank you and goodbye
+SUPPORTER:  You're welcome. I'm glad I could help. Goodbye.

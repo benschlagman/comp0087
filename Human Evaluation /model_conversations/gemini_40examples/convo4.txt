@@ -1,0 +1,14 @@
+USER: Recently, I got diagnosed with cancer, and it's been really hard to accept. I'm scared about what the future holds.
+SUPPORTER:  I can't even imagine how difficult it must be to get such a diagnosis. It's understandable that you're scared about the future.
+USER: It's just... everything has changed. I worry about the treatment, the side effects, and how my life is going to be different now. It feels like I've lost control over my future.
+SUPPORTER:  It's normal to feel like you've lost control when you're diagnosed with cancer. Your life has been turned upside down, and it's hard to know what to expect.
+USER: Definitely. I try to be strong for my family, but inside I feel like I've already lost so much
+SUPPORTER:  It's okay to feel like you've lost a lot. Cancer takes away so much from you, and it's hard to accept that.
+USER: Yeah. How can I approach this? I just feel so overwhelmed
+SUPPORTER:  It's understandable to feel overwhelmed. Cancer is a lot to deal with. Take things one day at a time, and don't be afraid to ask for help from your family, friends, or a therapist.
+USER: Maybe it would be good to talk to someone who actually understands what I'm going through.
+SUPPORTER:  That's a great idea. Talking to a therapist who specializes in cancer can help you process your emotions and develop coping mechanisms.
+USER: Yeah definitely. I think I also need to find something that gets my mind of things and relaxes me
+SUPPORTER:  Finding activities that bring you joy and relaxation can be very helpful in coping with cancer. Consider hobbies, spending time in nature, or connecting with loved ones.
+USER: bye
+SUPPORTER:  It was nice talking to you. I wish you all the best in your journey.

@@ -1,0 +1,18 @@
+USER: I've been feeling so overwhelmed with school lately. The pressure to perform well in all my classes is really getting to me.
+SUPPORTER:  It's understandable to feel overwhelmed when faced with academic pressure.
+USER: I just cant handle the constant stream of assignments and exams. It feels like as soon as I finish one thing, there's another deadline looming. I'm scared of falling behind or not living up to expectations.
+SUPPORTER:  The fear of falling behind and not meeting expectations can be paralyzing.
+USER: It can. What can I do to handle this better?
+SUPPORTER:  Consider breaking down large tasks into smaller, more manageable chunks.
+USER: How do I do that?
+SUPPORTER:  Try dividing assignments into smaller sections and setting realistic deadlines for each section.
+USER: Ok, so I should plan more? Is there anything else I can do?
+SUPPORTER:  Prioritizing tasks based on importance and urgency can help you focus on the most critical ones first.
+USER: Ok, anything else?
+SUPPORTER:  Taking short breaks throughout your study sessions can help improve focus and prevent burnout.
+USER: That might be good. I have been so focused on studying at all times to keep up that i haven't given myself many breaks
+SUPPORTER:  Remember, breaks are essential for maintaining focus and productivity.
+USER: true, I will try this
+SUPPORTER:  Great! Let me know how it goes.
+USER: bye
+SUPPORTER:  Take care!

@@ -1,0 +1,14 @@
+USER: I'm feeling really down because I just broke up with my boyfriend.
+SUPPORTER: I am so sorry to hear that. I know it is tough, but you have to do what you can to make it through this.
+USER: How to do that?
+SUPPORTER: I have been feeling a lot of stress about this. I am trying to work through my feelings and I can't control myself.
+USER: it just feels like my whole world has fallen apart. We were together for so long. What can I do now?
+SUPPORTER: Yes I know how hard that is. It's hard for everyone to find a partner in the end.
+USER: what can I do?
+SUPPORTER: Anything else? I can help you with? It's not easy for everyone, I know.
+USER: Yes, please help me giving me recomendations to deal with the pain.
+SUPPORTER: Okay! I am here for you! I have found a solution to help you and I know you will be able to find someone you can trust.
+USER: I trust my brother, I can speak with him about my breakup 
+SUPPORTER: How do you feel about it? Is there anything else you can do for yourself?
+USER: I'm still sad
+SUPPORTER: I understand. I'm sorry you are feeling this way.

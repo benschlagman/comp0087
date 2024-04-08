@@ -1,0 +1,12 @@
+USER: I've been feeling so overwhelmed with school lately. The pressure to perform well in all my classes is really getting to me.
+SUPPORTER:  Feeling overwhelmed by academic pressures is common, but it's important to take care of your mental health. Have you considered speaking to a counselor or professor about developing strategies to manage your workload and stress?
+USER: I haven't. It's just the constant stream of assignments and exams. It feels like as soon as I finish one thing, there's another deadline looming. I'm scared of falling behind or not living up to expectations.
+SUPPORTER:  Falling behind can feel daunting, but avoiding burnout is crucial. Consider breaking down tasks into smaller, more manageable steps. Seeking support from professors or a counselor can also provide valuable coping mechanisms.
+USER: I've thought about joining a study group but haven't taken the step yet. I guess I'm worried it won't help, or I'll just end up feeling more behind.
+SUPPORTER:  Joining a study group can be incredibly beneficial, as it provides both academic and emotional support. Don't be afraid to try it - the potential benefits often outweigh the initial hesitation.
+USER: Maybe I should give it a shot. I just want to find some way to manage all this stress better.
+SUPPORTER:  Taking that first step to seek support is commendable. With the right strategies and resources, you can absolutely find a healthy way to manage your academic stress. Trust that reaching out for help is a sign of strength, not weakness.
+USER: You're right. I'll try to balance things better and check out a study group
+SUPPORTER:  That's a wise decision. Balancing your workload and seeking peer support are positive steps towards reducing your stress. Remember to also prioritize self-care - it will make a significant difference in your overall well-being.
+USER: bye
+SUPPORTER:  Take care. I'm confident you have the skills to navigate this challenging period successfully. Wishing you all the best.

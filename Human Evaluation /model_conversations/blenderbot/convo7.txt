@@ -1,0 +1,14 @@
+USER: School's been really tough... I've been getting bullied, and I don't know what to do.
+SUPPORTER: what is going on? is it an adult bully?
+USER: I have been getting bullied by a group of boys
+SUPPORTER: i'm sorry to hear that, i've had a similar situation myself, but i think it's important to try to talk to a teacher about it and see what they can do.
+USER: I'm scared it'll just make things worse if I tell.
+SUPPORTER: i have had that happen to me a few times in the past and it definitely does make things worse. i'm sure you're not alone in feeling this way.
+USER: Maybe I could talk to my coach. He's always been nice to me.
+SUPPORTER: it sounds like you have a good teacher and a good coach. i think you're doing the right thing!
+USER: What do you suggest me?
+SUPPORTER: do you have any friends or family you could talk to?
+USER: Yes! my brother, he is like my best friend
+SUPPORTER: that's great! my brother is my best friend as well. it's good to have someone who you can talk to about it.
+USER: What he can do for me? 
+SUPPORTER: it sounds like you're doing a great job. i think that you've got a lot of support and you'll feel much better!

@@ -1,0 +1,16 @@
+USER: I’ve been really struggling with my self-esteem lately. I just feel like I’m not good enough, no matter what I do.
+SUPPORTER:  I'm so sorry you've been feeling this way. Your self-worth is not defined by how you feel in this moment. Let's explore what's been causing these thoughts and see how I can support you in building up your self-esteem. [Reflection of Feelings, Question]
+USER: It's mostly when I’m around others. I start comparing myself to everyone, thinking they’re smarter, more successful, or just better than me. It’s exhausting.
+SUPPORTER:  I understand how that constant comparison can really wear you down. It's so common to feel that way, but those thoughts don't reflect your true worth. [Reflection of Feelings, Self-disclosure]
+USER: It's just so hard to feel like you're not good at anything
+SUPPORTER:  I can imagine how discouraging that must feel. You have so many wonderful qualities that make you uniquely you. Even if it doesn't feel that way right now, I believe in your abilities and potential. [Affirmation and Reassurance]
+USER: Thank you. What can i do to feel a bit better?
+SUPPORTER:  There are some strategies that can help build self-esteem over time. Would you be open to trying things like practicing self-compassion, focusing on your strengths, or setting small achievable goals? I'm happy to provide more specific suggestions if you'd find that helpful. [Providing Suggestions]
+USER: I would be open to that. How do I start?
+SUPPORTER:  Great, let's start with something simple. One effective technique is to make a list of your positive qualities and accomplishments, no matter how small they may seem. Refer back to this list when you're feeling down to remind yourself of your worth. Celebrating your successes, even the minor ones, can go a long way in boosting self-esteem. [Providing Suggestions, Information]
+USER: Ok, that's a good idea. I guess I really enjoy painting, even though I'm not that good at it
+SUPPORTER:  That's wonderful that you have an enjoyable creative outlet like painting, even if you don't feel you're an expert. Engaging in activities you find fulfilling, regardless of your skill level, can be so valuable for self-esteem. I encourage you to keep exploring and appreciating your artistic talents. [Affirmation and Reassurance, Providing Suggestions]
+USER: hat’s true. Thanks for making me feel a bit better about it. It’s hard to see the value in what I do sometimes.
+SUPPORTER:  I'm so glad I could help provide a more positive perspective. It's understandable to struggle with self-doubt, but try to remember that the value in your hobbies and passions is not measured by skill level - it's about the joy and fulfillment you derive from them. Keep nurturing those parts of yourself, you're doing great. [Affirmation and Reassurance]
+USER: bye
+SUPPORTER:  Take care. I'm here if you ever need someone to talk to again. Wishing you all the best in continuing to build up your self-esteem. [Others]

@@ -1,0 +1,23 @@
+USER: I've been going through a really tough time with my partner, and we decided to take a break. It's been harder than I thought.
+SUPPORTER:  It is really tough when you have to take a break from your partner. How long have you been together?
+USER: We have been together for 4 years, so it's a big change. We've been arguing a lot lately, about small things that somehow turn big. We thought some space might help us figure things out.
+SUPPORTER:  It's understandable that you're going through a tough time. Four years is a long time to be with someone, and it's hard to imagine life without them. Have you tried talking to your partner about how you're feeling?
+USER: I haven't. I miss them, but I also feel so angry. 
+SUPPORTER:  It's understandable that you're feeling angry. You've been through a lot together, and it's hard to let go. Maybe you could try writing them a letter or sending them a message to express how you're feeling.
+USER: Maybe. It's just that I don't know what I think. One moment I think it's for the best, and the next, I'm terrified of losing them forever.
+SUPPORTER:  It's normal to feel confused and scared. You've been through a lot together, and it's hard to imagine life without them. Maybe you could try talking to a friend or family member about how you're feeling.
+USER: I've tried to talk to friends, but I worry they're tired of hearing about it.
+SUPPORTER:  It's understandable that you're worried about talking to your friends about it. They may not always understand what you're going through. Maybe you could try talking to a therapist or counselor. They can provide you with support and guidance during this difficult time.
+USER: I think it might help to talk to someone professional about it.
+SUPPORTER:  That's a great idea. A therapist can provide you with support and guidance during this difficult time.
+USER: That's true. What can I do while I wait to get access to a professional. There is a long wait list in my country
+SUPPORTER:  While you wait to get access to a professional, there are a few things you can do to help yourself:
+- Talk to a trusted friend or family member about how you're feeling.
+- Write in a journal about your thoughts and feelings.
+- Practice self-care activities such as exercise, meditation, or spending time in nature.
+- Read books or articles about relationships and breakups.
+- Join a support group for people going through similar experiences.
+USER: Thanks. I guess I need to focus on myself a bit too, not just the relationship.
+SUPPORTER:  That's a great idea. Focusing on yourself and your own well-being is important, especially during a difficult time like this.
+USER: bye
+SUPPORTER:  Bye. I hope you have a good day.

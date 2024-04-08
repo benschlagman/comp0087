@@ -1,0 +1,14 @@
+USER: I've been under so much stress at work lately. It feels like no matter how hard I try, I just can't keep up with everything.
+SUPPORTER:  Work stress can be overwhelming, especially when you feel like you're constantly behind.
+USER: My workload has just been insane. Deadlines are constant and expectations keep rising. Plus, I feel like I’m always on edge, worried I'll make a mistake or let someone down.
+SUPPORTER:  It's understandable to feel overwhelmed when your workload is heavy and expectations are high. The constant pressure can lead to anxiety and worry about making mistakes.
+USER: I've been trying to just power through, but it's getting to the point where I'm dreading going to work every day. I'm not even sure what I can do about it.
+SUPPORTER:  It's important to acknowledge your feelings and recognize that you're not alone in experiencing workplace stress. Seeking support from colleagues, friends, or family can help you cope and develop strategies for managing your workload and anxiety.
+USER: I would mention it to my manager, but I'm scared that they might think I just can't handle the job
+SUPPORTER:  It's understandable to be hesitant about discussing your workload with your manager, but open communication is crucial. Frame your concerns professionally, emphasizing your commitment to the job while expressing the challenges you're facing. Focus on finding solutions together, such as adjusting deadlines or delegating tasks.
+USER: I hadn’t thought about it like that. Maybe if I propose some solutions, it will be taken more positively.
+SUPPORTER:  Preparing potential solutions demonstrates your proactive approach and commitment to finding a mutually agreeable outcome. It also shows that you've given the matter thoughtful consideration and are invested in finding a workable solution.
+USER: Ok, I will try that, thank you
+SUPPORTER:  You're welcome. Remember, open and respectful communication is key. By approaching your manager with a collaborative mindset and potential solutions, you increase the likelihood of a positive outcome.
+USER: bye
+SUPPORTER:  Take care and remember, your well-being is important. If you need further support, don't hesitate to reach out.

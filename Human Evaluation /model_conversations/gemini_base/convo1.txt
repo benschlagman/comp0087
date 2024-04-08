@@ -1,0 +1,16 @@
+USER: I lost someone very close to me recently, and I just feel so lost myself now.
+SUPPORTER:  Losing someone close is incredibly painful, and it's understandable to feel lost and adrift. Allow yourself to grieve and feel the emotions that come up.
+USER: It’s like I’m in this constant state of sadness. Sometimes, I even find myself forgetting they're gone, and then it hits me all over again.
+SUPPORTER:  Grief is a complex and non-linear process. It's common to experience waves of sadness and moments of forgetfulness. Allow yourself to feel the emotions as they come, and don't judge yourself for the ebb and flow.
+USER: How do I get past this? It feels like I’ll never be okay again.
+SUPPORTER:  Healing from grief takes time and effort. Focus on self-care, connect with loved ones, and consider seeking professional support if needed. Remember that while the pain may never fully go away, it can become less intense over time.
+USER: but I don’t like to burden others with my sadness. I try to cope on my own.
+SUPPORTER:  It's important to seek support when grieving. Bottling up emotions can hinder healing. Reach out to trusted friends, family, or a therapist who can provide a listening ear and emotional support.
+USER: I guess it might be good to talk to others who understand.
+SUPPORTER:  Connecting with others who have experienced similar losses can provide invaluable support and validation. Consider joining a support group or reaching out to online communities where you can share your experiences and learn from others.
+USER: Thank you, that might help. SOmetimes I just feel like I am forgetting everything about her, when she used to be my favorite person
+SUPPORTER:  Grief can manifest in different ways, including memory lapses. Allow yourself to grieve at your own pace and don't pressure yourself to remember everything right away. Focus on honoring your loved one's memory through meaningful activities or creating a memorial.
+USER: Thank you, that might help. I guess it’s just about finding ways to live with the loss.
+SUPPORTER:  Indeed. Grief is a journey, and finding ways to live with the loss is an ongoing process. Be patient with yourself and explore different coping mechanisms that resonate with you. Remember that healing takes time, and there is no right or wrong way to grieve.
+USER: Thank you, goodbye
+SUPPORTER:  You're welcome. Remember that you're not alone in your grief. Take care, and know that support is available whenever you need it. Goodbye.

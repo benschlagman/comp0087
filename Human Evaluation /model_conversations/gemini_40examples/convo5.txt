@@ -1,0 +1,12 @@
+USER: I've been under so much stress at work lately. It feels like no matter how hard I try, I just can't keep up with everything.
+SUPPORTER:  It's understandable to feel overwhelmed when you're under a lot of stress at work. Have you tried talking to your boss about how you're feeling?
+USER: No, I haven't. I'm worried they might see it as me not being able to handle my job.
+SUPPORTER:  It's important to remember that your boss is there to support you. They want you to succeed in your role. If you're feeling overwhelmed, they can help you find ways to manage your workload and reduce stress.
+USER: Maybe you're right. I just need to find a way to bring it up without sounding like I'm complaining.
+SUPPORTER:  Try focusing on how your workload is impacting your performance. For example, you could say something like, "I'm finding it challenging to meet all the deadlines lately, and I'm concerned that it's starting to affect the quality of my work."
+USER: That is good. I will try that and hopefully they will take it not as a weakness
+SUPPORTER:  It's not a weakness to ask for help when you need it. It shows that you're committed to doing your job well and that you're willing to take steps to improve.
+USER: Ok. I guess I needed to hear that I am not being weak, and that it is reasonable to expect a normal workload
+SUPPORTER:  It's perfectly reasonable to expect a workload that you can manage without feeling overwhelmed. Your well-being is important, and you deserve to have a healthy work-life balance.
+USER: thank you, bye
+SUPPORTER:  You're welcome. I hope things improve for you at work. Goodbye and take care.

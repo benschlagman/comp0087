@@ -1,0 +1,13 @@
+USER: I can't stop thinking about the accident I witnessed a few weeks ago. It keeps replaying in my mind, and it's affecting my sleep and my daily life.
+SUPPORTER:  It's understandable to be affected by witnessing a traumatic event. Have you considered seeking professional help to process your emotions and develop coping mechanisms?
+USER: I have been seeing a therapist for ages, but I don't feel like they are helping me much. I've been trying to keep myself busy to avoid thinking about it, but it doesn't really help. When it gets quiet, the images just come flooding back, and it's overwhelming.
+SUPPORTER:  It's important to find a therapist who is a good fit for you and your needs. If you don't feel like your current therapist is helping, it may be worth considering seeking a second opinion or exploring different therapeutic approaches.
+USER: I suppose speaking to someone who knows how to deal with this could help. How do I even start to look for someone like that?
+SUPPORTER:  There are several ways to find a therapist who specializes in trauma:
+- Ask for recommendations from your primary care physician or other healthcare providers.
+- Search online directories such as Psychology Today or the American Psychological Association.
+- Contact local mental health organizations or support groups for referrals.
+USER: Ok, I will try again.
+SUPPORTER:  Finding the right therapist is an important step in your healing journey. Remember that you deserve to feel supported and understood.
+USER: bye
+SUPPORTER:  Take care, and remember that you're not alone in this.

@@ -1,0 +1,8 @@
+USER: I just lost my pet, and I'm heartbroken. I feel like I lost a family member.
+SUPPORTER: I lost my dog a few weeks ago. I can understand how you feel.
+USER: My pet always knew when I was sad and would come to comfort me. I miss them so much.
+SUPPORTER: Oh my goodness that is terrible. I lost my first dog when I lost mine and it was so difficult. I know how hard it can be.
+USER: What can I do now?
+SUPPORTER: I used to lose pets when I had a pet. I would just walk away from them.
+USER: It's just so hard to get used to them not being here.
+SUPPORTER: You need to try to find a new pet. You can get your own

@@ -1,0 +1,14 @@
+USER: I've been under so much stress at work lately. It feels like no matter how hard I try, I just can't keep up with everything.
+SUPPORTER:  It's understandable to feel overwhelmed when you're under a lot of stress at work. What specific aspects of your job are causing you the most stress?
+USER: My workload has just been insane. Deadlines are constant and expectations keep rising. Plus, I feel like I’m always on edge, worried I'll make a mistake or let someone down.
+SUPPORTER:  It sounds like you're experiencing a lot of pressure and anxiety due to your workload. Have you tried talking to your manager about your concerns or exploring ways to manage your time and workload more effectively?
+USER: No, I haven't. I'm worried they might see it as me not being able to handle my job.
+SUPPORTER:  It's understandable to have concerns about how your manager might perceive your request. However, it's important to remember that your well-being and job performance are interconnected. By proactively addressing your workload and stress levels, you can demonstrate your commitment to your role and explore potential solutions with your manager's support.
+USER: Maybe you're right. I just need to find a way to bring it up without sounding like I'm complaining.
+SUPPORTER:  Consider framing your conversation with your manager as a request for support and collaboration. Explain that while you're committed to your job, you've been feeling overwhelmed by the workload and would appreciate their insights on how to manage it more effectively. This approach can help you maintain a positive and proactive stance while addressing your concerns.
+USER: I hadn’t thought about it like that. Maybe if I propose some solutions, it will be taken more positively.
+SUPPORTER:  Yes, coming prepared with potential solutions can demonstrate your proactiveness and willingness to contribute to the discussion. Consider researching time management techniques, delegation strategies, or workload prioritization methods that you could suggest to your manager. This shows that you're not just raising concerns but also taking steps to address them.
+USER: I'll give that a try. Thanks for the advice and for listening. It’s given me a lot to think about.
+SUPPORTER:  You're welcome. Remember, it's important to prioritize your well-being while navigating workplace challenges. By approaching your manager with a collaborative mindset and potential solutions, you can work towards a more manageable workload and reduce stress levels.
+USER: bye
+SUPPORTER:  Take care and remember to prioritize your well-being. Best wishes in addressing your workload concerns.

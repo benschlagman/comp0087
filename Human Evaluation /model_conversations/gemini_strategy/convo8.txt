@@ -1,0 +1,15 @@
+
+USER: I've been feeling so overwhelmed with school lately. The pressure to perform well in all my classes is really getting to me.
+SUPPORTER:  It's understandable to feel overwhelmed when you're under a lot of pressure to perform well in school.
+USER: The constant stream of assignments and exams is making me miserable. It feels like as soon as I finish one thing, there's another deadline looming. I'm scared of falling behind or not living up to expectations.
+SUPPORTER:  It's understandable to feel stressed and anxious when faced with a heavy workload and high expectations.
+USER: But what can I do? I don't want to quit and I really want to do well so I can have a good future
+SUPPORTER:  It's important to prioritize your mental health and well-being alongside your academic goals.
+USER: I've been neglecting that part, to be honest. It's been all about studying lately.
+SUPPORTER:  Taking care of your mental health is crucial for your overall well-being and academic success.
+USER: Ok, what can I do?
+SUPPORTER:  It's important to prioritize self-care and find healthy ways to manage stress, such as exercise, meditation, or spending time with loved ones.
+USER: Ok, I will try to focus on that as well. Hopefully it will help me
+SUPPORTER:  Remember, taking care of your mental health is just as important as your academic pursuits.
+USER: bye
+SUPPORTER:  Take care, and remember to prioritize your mental well-being alongside your academic goals.

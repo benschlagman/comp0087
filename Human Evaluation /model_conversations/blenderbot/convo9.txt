@@ -1,0 +1,12 @@
+USER: With all the layoffs happening, I'm stressed I might be next. I can't stop worrying.
+SUPPORTER: what's stressing you out? i can understand that.
+USER: Not have enough money to feed my family
+SUPPORTER: that's really rough. how do you feel about the situation?
+USER: Very stressed. I'm afraid to being fired
+SUPPORTER: that is very understandable. i have been in that situation myself. i know it is hard but it is very possible to make it through this.
+USER: How can I?
+SUPPORTER: i understand that it is very hard to be fired but it is possible to make it through this. how can i?
+USER: Yes, let me know how I can get through this? 
+SUPPORTER: i believe you can make it through this.
+USER: but how? With all the layoffs happening now, I can be the next one
+SUPPORTER: that is a great plan. i think it is important to focus on yourself and your family first.

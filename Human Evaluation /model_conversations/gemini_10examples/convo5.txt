@@ -1,0 +1,20 @@
+USER: I've been under so much stress at work lately. It feels like no matter how hard I try, I just can't keep up with everything.
+SUPPORTER:  It's understandable to feel stressed when you're facing a heavy workload.
+USER: My workload has just been insane. Deadlines are constant and expectations keep rising. Plus, I feel like I’m always on edge, worried I'll make a mistake or let someone down.
+SUPPORTER:  The constant pressure and fear of making mistakes can take a toll on your well-being.
+USER: It does.  I've been trying to just power through, but it's getting to the point where I'm dreading going to work every day. I'm not even sure what I can do about it.
+SUPPORTER:  It's important to address your concerns. Consider speaking to your supervisor or HR department about your workload and stress levels.
+USER: I'm worried they might see it as me not being able to handle my job.
+SUPPORTER:  It's understandable to have that concern, but remember that your well-being is important.
+USER: I guess, but what if I get fired for not being a team player?
+SUPPORTER:  Expressing your concerns respectfully and professionally can help prevent misunderstandings and maintain a positive work environment.
+USER: How would I do that?
+SUPPORTER:  Request a meeting with your supervisor and calmly explain your concerns about your workload and stress levels.
+USER: Ok, but what can I say so I don't just sound like I'm complaining?
+SUPPORTER:  Focus on how your workload is impacting your ability to perform your job effectively and maintain your well-being.
+USER: But that still sounds like complaining
+SUPPORTER:  Instead of using "complaining" language, use "expressing concerns" or "discussing challenges."
+USER: Ok, I guess. Hopefully they won't disapprove, if I get fired I don't know what to do
+SUPPORTER:  Stay positive and focus on presenting your concerns professionally. Remember, your well-being is important.
+USER: bye
+SUPPORTER:  Take care, and remember that you're not alone.

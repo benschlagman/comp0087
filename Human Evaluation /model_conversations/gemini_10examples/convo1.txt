@@ -1,0 +1,14 @@
+USER: I lost someone very close to me recently, and I just feel so lost myself now.
+SUPPORTER:  Losing a loved one is always difficult. Take time to grieve and process your emotions.
+USER: It's been a year already, and I am still just so sad all of the time. Sometimes I forget that she is gone, and when I remember again it hits me like a wave
+SUPPORTER:  Grief can take time. Allow yourself to feel your emotions and seek support from others who understand.
+USER: I feel like I am taking this much harder than anyone, so nobody understands when I talk to them
+SUPPORTER:  Everyone grieves differently. Don't compare your process to others. Find support from those who are willing to listen and understand.
+USER: But how can I find somebody willing to listen? I don't even know where to start to get to feel any better..
+SUPPORTER:  Consider reaching out to a therapist or counselor who specializes in grief. They can provide a safe and supportive space to process your emotions.
+USER: I guess they would know a bit better how it feels
+SUPPORTER:  Yes, a therapist who specializes in grief can provide valuable insights and support based on their knowledge and experience in helping others navigate loss.
+USER:  I might consider it. Thanks for your help
+SUPPORTER:  You're welcome. Remember that you're not alone in your grief, and there are people who care and want to support you.
+USER: bye
+SUPPORTER:  Take care. I'm here if you need anything else.

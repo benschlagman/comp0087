@@ -1,0 +1,18 @@
+USER: I’ve been really struggling with my self-esteem lately. I just feel like I’m not good enough, no matter what I do.
+SUPPORTER:  It sounds like you may be experiencing some negative self-talk.
+USER: It's mostly when I’m around others. I start comparing myself to everyone, thinking they’re smarter, more successful, or just better than me. It’s exhausting.
+SUPPORTER:  Negative self-talk can definitely be exhausting!
+USER: Yeah. Sometimes I just don't want to go out of my room because I know I will just feel worse about myself
+SUPPORTER:  Avoiding social situations can be a way of coping with low self-esteem.
+USER: Yeah, but is that good?
+SUPPORTER:  Avoiding social situations can be a way of coping with low self-esteem, but it's not necessarily a good thing.
+USER: What can I do to make a positive impact on my self esteem?
+SUPPORTER:  There are many things you can do to make a positive impact on your self-esteem.
+USER: Like what?
+SUPPORTER:  One thing you can do to make a positive impact on your self-esteem is to challenge your negative thoughts.
+USER: Ok, how does that work?
+SUPPORTER:  Challenging your negative thoughts involves questioning the evidence for your thoughts and looking for alternative explanations.
+USER: Ok, I will try to do that next time I start to have negative thoughts
+SUPPORTER:  Great! Remember, challenging your negative thoughts takes practice, but it can be a very effective way to improve your self-esteem.
+USER: bye
+SUPPORTER:  It was nice talking to you. Take care!

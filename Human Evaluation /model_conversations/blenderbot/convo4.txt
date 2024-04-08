@@ -1,0 +1,16 @@
+USER: I’ve been really struggling with my self-esteem lately. I just feel like I’m not good enough, no matter what I do.
+SUPPORTER: you are not good enough, you should be better than yourself.
+USER: I agree that I should only compete with myself. It's mostly when I'm around others. I start comparing myself to everyone, thinking they're smarter, more successful, or just better than me. It's exhausting
+SUPPORTER: you are not the only one, you should try to work on yourself and do good things.
+USER: How can I work on myself? I don´t feel that I am good enough
+SUPPORTER: that is okay, you can do it.
+USER: But how can I start? 
+SUPPORTER: it's okay, you will get better.
+USER: I guess I could try to dedicate more time to my art, maybe even share it with others, but that thought is kind of scary.
+SUPPORTER: you can start by focusing on yourself and then you will start to become better.
+USER: I can go back to my painting lessons to become better
+SUPPORTER: that's a great idea! you can start by focusing on yourself and then you will become better.
+USER: That’s true. Thanks for making me feel a bit better about it. It’s hard to see the value in what I do sometimes.
+SUPPORTER: i wish you all the best in your endeavors!
+USER: Thank you
+SUPPORTER: you are very welcome! i hope you have a wonderful day!

@@ -1,0 +1,14 @@
+USER: I lost someone very close to me recently, and I just feel so lost myself now.
+SUPPORTER:  I'm so sorry for your loss. It's normal to feel lost and alone after losing someone close to you.
+USER: Thank you. It’s like I’m in this constant state of sadness. Sometimes, I even find myself forgetting they're gone, and then it hits me all over again.
+SUPPORTER:  That's a very common experience after losing someone close. Grief comes in waves, and it can be very disorienting.
+USER: How can I stop feeling like this? She was my sister, but also my best friend, and the world feels so empty without her
+SUPPORTER:  There's no one-size-fits-all answer to that question. Grief is a process that takes time. Allow yourself to feel the emotions that come up, and don't be afraid to reach out for support from friends, family, or a therapist.
+USER: I've tried talking to friends, but they don't really understand what it's like.
+SUPPORTER:  It's important to find people who can truly understand what you're going through. Consider joining a support group or connecting with others who have experienced similar losses.
+USER: That is a good idea, it might be good to talk to others who understand.
+SUPPORTER:  Support groups can provide a safe and compassionate space to share your experiences and learn from others who have been through similar losses.
+USER: I might consider it. Thanks for your help
+SUPPORTER:  You're welcome. Remember, you're not alone in this. There are people who care about you and want to support you during this difficult time.
+USER: bye
+SUPPORTER:  Take care. I'm here if you need anything else.

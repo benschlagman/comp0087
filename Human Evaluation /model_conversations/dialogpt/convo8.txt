@@ -1,0 +1,12 @@
+USER: One of my coworkers is incredibly rude to me, and it's making work miserable.
+SUPPORTER: I hear you. I have also had to deal with this.
+USER: how can I deal with him?
+SUPPORTER: I can understand how frustrating it must be. Do you have any friends or family who are close to you?
+USER: Yes, but I think I need to do something else with that person
+SUPPORTER: So you are having a hard time dealing with him.
+USER: Yes, absolutely. What can I do?
+SUPPORTER: It is a difficult situation for all of us, but we can try to overcome it.
+USER: How can I overcome it?
+SUPPORTER: There is a lot of support groups out there for people like this. The best way I can think of doing it is to talk to them and ask them for support.
+USER: maybe to go to HR.
+SUPPORTER: That is a great idea, you can talk to people like that.

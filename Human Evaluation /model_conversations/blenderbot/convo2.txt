@@ -1,0 +1,14 @@
+USER: I can't stop thinking about the accident I witnessed a few weeks ago. It keeps replaying in my mind, and it's affecting my sleep and my daily life.
+SUPPORTER: i'm sorry to hear that. how long were you in an accident?
+USER: It was one week ago. I've been trying to keep myself busy to avoid thinking about it, but it doesn't really help.
+SUPPORTER: i can understand how it is hard to keep busy, especially when you are in a bad situation.
+USER: What can I do to avoid thinking about the accident? 
+SUPPORTER: that is a great idea. it sounds like you are trying to avoid thinking about the accident.
+USER: But what can I do to avoid that?
+SUPPORTER: it sounds like you are trying to avoid thinking about the accident. but what can i do to avoid that?
+USER: Could you give me some suggestions? 
+SUPPORTER: sure! so you are trying to avoid thinking about the accident and you are worried that the accident is causing you to think about it?
+USER: Right, so, what do you recommend me?
+SUPPORTER: do you have a family member that you can talk to about it?
+USER: Yes, my mom, we are very close to each other 
+SUPPORTER: that sounds like a great idea. it sounds like you are able to avoid thinking about the accident and you are worried that the accident is causing you to think about it?

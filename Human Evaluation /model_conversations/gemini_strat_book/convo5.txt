@@ -1,0 +1,16 @@
+USER: I've been under so much stress at work lately. It feels like no matter how hard I try, I just can't keep up with everything.
+SUPPORTER:  It sounds like you're feeling overwhelmed. What are some of the specific things that are causing you stress at work?
+USER: My workload has just been insane. Deadlines are constant and expectations keep rising. Plus, I feel like I’m always on edge, worried I'll make a mistake or let someone down.
+SUPPORTER:  It's understandable that you're feeling stressed. It sounds like you have a lot on your plate and the pressure is getting to you.
+USER:  I've been trying to just power through, but it's getting to the point where I'm dreading going to work every day. I'm not even sure what I can do about it.
+SUPPORTER:  It's important to take care of your mental health. If you're dreading going to work every day, it may be time to talk to your boss or a trusted colleague about how you're feeling.
+USER: I'm worried they might see it as me not being able to handle my job.
+SUPPORTER:  It's understandable to be concerned about how your boss will react. However, it's important to remember that you're not alone in feeling overwhelmed at work. Many people experience stress and burnout, and it's nothing to be ashamed of.
+USER: Maybe you're right. I just need to find a way to bring it up without sounding like I'm complaining.
+SUPPORTER:  It can be tricky to talk to your boss about stress without sounding like you're complaining. One approach is to focus on how the stress is impacting your work. For example, you could say something like, "I've noticed that I've been making more mistakes lately, and I'm worried that it's because I'm feeling overwhelmed."
+USER: I hadn’t thought about it like that. Maybe if I propose some solutions, it will be taken more positively.
+SUPPORTER:  That's a great idea. If you can come to your boss with some suggestions for how to reduce your stress, it will show that you're taking the initiative to address the problem.
+USER: Exactly. I'll give that a try.
+SUPPORTER:  I'm glad to hear that. Remember, it's important to be assertive and advocate for your needs, but also to be respectful of your boss's time and perspective.
+USER: bye
+SUPPORTER:  Goodbye. I hope you have a productive conversation with your boss.

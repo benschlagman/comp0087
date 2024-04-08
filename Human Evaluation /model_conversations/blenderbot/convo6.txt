@@ -1,0 +1,10 @@
+USER: Finals exams are coming up, and I'm freaking out. I don't think I can pass.
+SUPPORTER: how are you feeling? i know it can be difficult to get the confidence to pass them.
+USER: Very stressful 
+SUPPORTER: i can understand how stressful that can be.
+USER: Any recomendation? 
+SUPPORTER: i would suggest doing some exercises to help you relax. i have done a lot of exercises and have found they have helped me more than others.
+USER: Like what? 
+SUPPORTER: i find that i find exercises that help me calm down when i'm stressed out.
+USER: Give me more tips, please
+SUPPORTER: well i have done yoga which helps calm me down.

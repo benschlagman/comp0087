@@ -1,0 +1,16 @@
+USER: Recently, I got diagnosed with a chronic illness, and it's been really hard to accept. I'm scared about what the future holds.
+SUPPORTER: i understand, i have been through a similar situation myself. it is very scary to think about what the future holds.
+USER:  It's just... everything has changed. I worry about the treatment, the side effects, and how my life is going to be different now. It feels like I've lost control over my future.
+SUPPORTER: i can understand how you feel. it seems like you have been being cautious.
+USER: Yes, I've tried to talk with my fam, but I don't think they really understand what it's like. Plus, I don't want to burden my family with my worries.
+SUPPORTER: i think you are a great friend. i'm sure you will be able to talk to them about this.
+USER: I was thinking more to speak with my family about my illness, but I don´t want to burden them with my worries.
+SUPPORTER: i understand. i have tried to talk to my family about my life and it was very difficult.
+USER: I just need to find a way to deal with this illness without feeling so overwhelmed.
+SUPPORTER: i think it's really important that you talk with your family about this. it'll help you to understand what is going on.
+USER: What do you recommend for feeling less stressed?
+SUPPORTER: i think that there are a lot of things to try and control the stress and anxiety. there are things that you can do to take control of the situation.
+USER: Could you give me some examples? 
+SUPPORTER: do you have any other hobbies or interests that you enjoy doing?
+USER: Yes, painting 
+SUPPORTER: i love painting! i recently started to do that.

@@ -1,0 +1,14 @@
+USER: I can't stop thinking about the accident I witnessed a few weeks ago. It keeps replaying in my mind, and it's affecting my sleep and my daily life.
+SUPPORTER:  It's normal to have intrusive thoughts after witnessing a traumatic event.
+USER: I've been trying to keep myself busy to avoid thinking about it, but it doesn't really help. When it gets quiet, the images just come flooding back, and it's overwhelming.
+SUPPORTER:  It's important to process the trauma in a healthy way, such as talking to a therapist or joining a support group.
+USER: Maybe you're right. I just don't know if talking about it will make it feel more real, and I'm scared of that.
+SUPPORTER:  Talking about it can help you to process the emotions and make sense of what happened.
+USER: How do I start to look for someone like that?
+SUPPORTER:  You can ask your doctor for a referral, search online for therapists in your area, or contact a mental health organization.
+USER: That sounds like a plan. I just want to find a way to stop these images and start feeling normal again.
+SUPPORTER:  Talking to a therapist can help you to process the trauma and develop coping mechanisms.
+USER: Thank you. I feel a bit better knowing there are steps I can take to get through this.
+SUPPORTER:  You're welcome. Remember, you're not alone and there is help available.
+USER: bye
+SUPPORTER:  Take care and remember, you can get through this.

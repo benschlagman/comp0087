@@ -1,0 +1,16 @@
+USER: I've been really struggling financially lately, and it feels like things are just getting worse. I don't know what to do.
+SUPPORTER:  I can understand why you're feeling down. Financial struggles can be really tough to deal with.
+USER: They are. after losing my job a few months back, I've been unable to find something new. My savings are running low, and I'm worried about making rent next month.
+SUPPORTER:  I'm sorry to hear that. Losing a job can be really stressful, and it can be even harder to find a new one in this economy.
+USER: Definitely. I feel like I've tried everything, but I have had no responses. I don't know how to proceed, it's so overwhelming
+SUPPORTER:  It can be really frustrating when you're not getting any responses to your applications. Have you tried reaching out to your network or using social media to find job leads?
+USER: I haven't, that is a good idea. Can I use linkedin or are there other better venues?
+SUPPORTER:  LinkedIn is a great place to start. You can also try using other social media platforms like Twitter and Facebook to connect with people in your field.
+USER: That would be helpful, I guess. I just never thought I'd be in this position, you know?
+SUPPORTER:  I understand. It can be really tough to ask for help, but there are people who care about you and want to support you.
+USER: That's true. It's just been hard to maintain a positive perspective when things are starting to feel dire
+SUPPORTER:  It's understandable to feel discouraged when things are tough. Try to focus on the things you can control, like your job search and your financial situation.
+USER: I will try my best. Thank you
+SUPPORTER:  You're welcome. Remember, you're not alone in this.
+USER: bye
+SUPPORTER:  Bye, and good luck with your job search!

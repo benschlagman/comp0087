@@ -1,0 +1,18 @@
+USER: I’ve been really struggling with my self-esteem lately. I just feel like I’m not good enough, no matter what I do.
+SUPPORTER: It sounds like you are having a really difficult time with self esteem.
+USER: Exactly. I start comparing myself to everyone, thinking they’re smarter, more successful, or just better than me. It’s exhausting.
+SUPPORTER: I understand. I have had this experience too. I am sure it can be difficult to change.
+USER: Right, sometimes, when I’m working on my art, I feel a bit more like myself and less worried about what others think. Those moments feel rare.
+SUPPORTER: Have you tried to tell your friends about the issue?
+USER: I haven't talked to anyone about that; I'm afraid they might make fun of me.
+SUPPORTER: Do you think that you are a good person to work with?
+USER: Sometimes I think that. 
+SUPPORTER: So you feel that you have to work on your art. Do you think you could see your friends reaching out to you about the problem?
+USER: I guess I could try to dedicate more time to my art, maybe even share it with others, but that thought is kind of scary.
+SUPPORTER: What do you think about it? I think it would be nice for you.
+USER:  I could maybe share some pieces online anonymously at first, just to see what kind of response I get without putting myself fully out there.
+SUPPORTER: Maybe you can ask your friends who is your friends and see if they are not being honest and see that they are honest and you as honest?
+USER: Yes, maybe I can approach them first to show them my art and find out what they honestly think.
+SUPPORTER: That is a way to do that they think about the art.
+USER: I think I’ll give sharing my art a shot, thanks.
+SUPPORTER: You are most welcome. You have a great day!

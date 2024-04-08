@@ -1,0 +1,16 @@
+USER: I lost someone very close to me recently, and I just feel so lost myself now.
+SUPPORTER:  I am so sorry to hear about your loss. It is normal to feel lost and alone after losing someone close to you.
+USER: Thank you. It was my sister, and she died a year ago. She was my best friend in the whole world, and I feel so lost without her
+SUPPORTER:  I can understand why you would feel lost without her. She sounds like she was a very important person in your life.
+USER: She was. It feels like I’ll never be okay again.
+SUPPORTER:  It is normal to feel like you will never be okay again after losing someone close to you. Grief is a process, and it takes time to heal.
+USER: But how long will it take? It’s like I’m in this constant state of sadness. Sometimes, I even find myself forgetting they're gone, and then it hits me all over again.
+SUPPORTER:  There is no set timeline for grief. Everyone experiences it differently. It is important to be patient with yourself and allow yourself to grieve at your own pace.
+USER: Maybe you’re right. But what else can I do to feel even a little better?
+SUPPORTER:  There are many things you can do to help yourself feel better after losing someone close to you. Some things that may help include talking to a therapist or counselor, joining a support group, or spending time with loved ones.
+USER: It might be good to talk to others who understand.
+SUPPORTER:  Yes, talking to others who have experienced a similar loss can be very helpful.
+USER: Thank you, that might help. I guess it’s just about finding ways to live with the loss.
+SUPPORTER:  Yes, grief is a process of learning to live with the loss of someone you love.
+USER: bye
+SUPPORTER:  Goodbye. I hope you find the support you need.

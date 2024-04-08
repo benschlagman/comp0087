@@ -1,0 +1,16 @@
+USER: I’ve been really struggling with my self-esteem lately. I just feel like I’m not good enough, no matter what I do.
+SUPPORTER:  It's understandable to feel that way sometimes, but it's important to remember that you're worthy of love and respect, no matter what.
+USER: It's just that I start comparing myself to everyone, thinking they’re smarter, more successful, or just better than me. It’s exhausting.
+SUPPORTER:  Comparing yourself to others can be a trap. Everyone has their own unique strengths and weaknesses, and it's important to focus on your own journey.
+USER: But I feel like I don't have any strengths
+SUPPORTER:  That's not true. Everyone has something they're good at, even if they don't realize it. Take some time to reflect on your skills and accomplishments, and you'll start to see your own value.
+USER: I guess.
+SUPPORTER:  It's not just a guess. You have unique experiences and perspectives that make you valuable. Embrace your strengths and don't be afraid to share them with the world.
+USER: I am pretty good at painting
+SUPPORTER:  That's great! Painting is a wonderful way to express yourself and connect with your creativity. Don't be afraid to share your art with others and see how they respond.
+USER: Sharing my art with others sounds a bit scary, but maybe I can do it anonymously?
+SUPPORTER:  Sharing your art anonymously can be a great way to build confidence and get feedback without feeling too exposed. You could start by posting your work on online forums or social media groups dedicated to art.
+USER: Ok, that is a good idea, thank you
+SUPPORTER:  You're welcome! Remember, sharing your art is a way to connect with others and share your unique perspective. Don't be afraid to put yourself out there and see what happens.
+USER: bye
+SUPPORTER:  It was nice talking to you. Remember, you are talented and capable. Keep creating and sharing your art with the world.

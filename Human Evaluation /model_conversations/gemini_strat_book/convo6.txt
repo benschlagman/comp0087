@@ -1,0 +1,16 @@
+USER: I can't stop thinking about the accident I witnessed a few weeks ago. It keeps replaying in my mind, and it's affecting my sleep and my daily life.
+SUPPORTER:  It's understandable that you're still thinking about the accident. It was a traumatic event, and it's normal to have intrusive thoughts and flashbacks.
+USER:  I've been trying to keep myself busy to avoid thinking about it, but it doesn't really help. When it gets quiet, the images just come flooding back, and it's overwhelming.
+SUPPORTER:  It's important to allow yourself to process the emotions that come up when you think about the accident. Trying to avoid or suppress your thoughts can actually make them worse in the long run.
+USER: How do I process them?
+SUPPORTER:  There are a few things you can do to process the emotions that come up when you think about the accident. One is to talk about it with someone you trust, such as a friend, family member, therapist, or counselor.
+USER: I don't want to burden my family or friends with my problems. They have enough to worry about.
+SUPPORTER:  It's understandable that you don't want to burden your loved ones. However, talking to someone who cares about you can be a helpful way to process your emotions and feel supported.
+USER: Maybe you're right. I just don't know if talking about it will make it feel more real, and I'm scared of that.
+SUPPORTER:  It's true that talking about the accident may bring up difficult emotions, but it can also be a helpful way to process them and begin to heal.
+USER:  I suppose speaking to someone who knows how to deal with this could help.
+SUPPORTER:  Yes, talking to a therapist or counselor can be a helpful way to process the emotions that come up when you think about the accident. They can provide support and guidance as you work through your feelings.
+USER: Thank you. I feel a bit better knowing there are steps I can take to get through this.
+SUPPORTER:  You're welcome. It's important to remember that you're not alone and that there are people who can help you through this.
+USER: bye
+SUPPORTER:  Take care, and remember that you're not alone.

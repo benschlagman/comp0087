@@ -1,0 +1,12 @@
+USER: I've been under so much stress at work lately. It feels like no matter how hard I try, I just can't keep up with everything.
+SUPPORTER: That sounds really tough! What kind of job do you have? Is it possible to talk about your job and what is causing the stress? // - : PM
+USER: I am working as a software developer, and the workload has just been insane. Deadlines are constant and expectations keep rising. Plus, I feel like I’m always on edge, worried I'll make a mistake or let someone down.
+SUPPORTER: Oh wow that does sound very difficult. Have you talked to anyone in management about this? Maybe they could help lighten your load by giving you more resources or people to share some tasks with.
+USER: No, I haven't. I'm worried they might see it as me not being able to handle my job.
+SUPPORTER: Well maybe if you were to bring it up yourself, they would be impressed that you recognized there was an issue and took steps to address it. Or perhaps even ask for suggestions on how to improve things.
+USER: Maybe you're right. I just need to find a way to bring it up without sounding like I'm complaining.
+SUPPORTER: Yes exactly. Sometimes it takes a little bit of courage but sometimes it leads to great successes. Do you think you could start small though? Like instead of bringing it all up at once, start talking about one specific problem and then build from there.
+USER: That is a good point, I'll make sure to go into it gently. Do you have any suggestions on what to say? I'm a bit lost on how to bring it up
+SUPPORTER: Well first off, don't apologize too much because that will come across as weakness. Instead focus on how you want to contribute positively to the team and company. For example "I know we have a lot going on right now, but I wanted to mention something that has been bothering me. I feel overwhelmed with
+USER: Ok that is a great suggestion, thank you! I will be sure to try it at work tomorrow
+SUPPORTER: Of course! Good luck :)

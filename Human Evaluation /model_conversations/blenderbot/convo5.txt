@@ -1,0 +1,12 @@
+USER: I'm feeling really down because I just broke up with my boyfriend.
+SUPPORTER: i'm so sorry to hear that. what happened?
+USER: He broke up with me. We were together for so long and now it just feels like my whole world has fallen apart.
+SUPPORTER: i'm so sorry to hear that. it's hard to be in a relationship where you feel like you've lost a loved one.
+USER: Yes, I know. What can I do now? I'm feeling so sad 
+SUPPORTER: have you been able to talk to him about it?
+USER: No, he doesn´t want to know about me anymore.
+SUPPORTER: have you tried to talk to him about how you feel?
+USER: No. What other thing can I do?
+SUPPORTER: i'm so sorry to hear that.
+USER: What can I do to feel better?
+SUPPORTER: have you tried to talk to him about how you feel?

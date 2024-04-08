@@ -1,0 +1,14 @@
+USER: Lately, I've been feeling really isolated. I moved to a new city a few months ago for work, and it's been hard to make any real connections here.
+SUPPORTER:  Moving to a new city can be tough. It takes time to build a new social network. In the meantime, try joining some local groups or activities that interest you.
+USER: I've tried attending a few local events and even joined some groups online, but nothing's really clicked. It often feels like everyone already has their friend groups established, making it hard to fit in.
+SUPPORTER:  It's understandable to feel that way. Building new friendships can take time and effort. Don't give up on attending events and joining groups. Try to be open and approachable, and don't be afraid to initiate conversations.
+USER: How can I be more open? I am an anxious person so I worry that I might not be very approachable
+SUPPORTER:  Try to relax and be yourself. People can sense when you're being genuine. Make eye contact, smile, and ask questions to show that you're interested in getting to know them.
+USER: Ok, I will try that. Think the issue is that I am not much of a drinker, and parties seem to be the main way to meet friends
+SUPPORTER:  There are plenty of ways to meet people without drinking. Try joining a gym, taking a class, or volunteering for a cause you care about. You're more likely to meet like-minded people who share your interests.
+USER: That's true, maybe I just need to find more groups connected to my hobbies
+SUPPORTER:  That's a great idea! Joining groups or attending events related to your hobbies is a fantastic way to meet people who share your interests and passions.
+USER: I'll look into that. It's just been hard feeling so alone in a new place.
+SUPPORTER:  It's completely understandable to feel lonely when moving to a new place. Building new connections takes time and effort, but it's definitely possible. Keep putting yourself out there, and you'll eventually find your people.
+USER: bye
+SUPPORTER:  Take care!

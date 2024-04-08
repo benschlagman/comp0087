@@ -1,0 +1,10 @@
+USER: Finals exams are coming up, and I'm freaking out. I don't think I can pass.
+SUPPORTER: I can understand how you feel. I am not sure what to do now.
+USER: Any recommendation?
+SUPPORTER: I would definitely try to take a few steps back and be patient. It is a tough time to be feeling this way.
+USER: How can I get self-confidence with my final exams?
+SUPPORTER: If you don't feel confident about your exam you can definitely take a step back and take a walk.
+USER: A walk is a good idea!
+SUPPORTER: It's okay, I know you can feel this way when you're feeling anxious. It's so important to take steps back.
+USER: thank you
+SUPPORTER: You're welcome. I wish you all the best with your exams.

@@ -1,0 +1,14 @@
+USER: School's been really tough... I've been getting bullied, and I don't know what to do.
+SUPPORTER: I am sorry to hear that. Do you have a problem with school or something?
+USER: I have been getting bullied by a group of boys in my school 
+SUPPORTER: Do you have any family members that you are close to?
+USER: The coach. But I'm scared it'll just make things worse if I tell. 
+SUPPORTER: Do they have a support group? It sounds like you are scared of getting bullied.
+USER: Yes, I think so. Maybe I can go to the support group
+SUPPORTER: Are you able to reach out to the school about this?
+USER: NO yet, because I was afraid to getting worse reactions from the bullies
+SUPPORTER: So you feel that you have been bullied? Do you think you could get some help?
+USER: Yes, absolutely
+SUPPORTER: I think it will help. You will be more aware of yourself and what you are feeling about it.
+USER: thank you
+SUPPORTER: I hope that it will make you better. I am sure that this will help you as well.

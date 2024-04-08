@@ -1,0 +1,20 @@
+USER:  Recently, I got diagnosed with a chronic illness, and it's been really hard to accept. I'm scared about what the future holds.
+SUPPORTER: I understand. It sounds like you are scared about the future.
+USER: It's just... everything has changed. I worry about the treatment, the side effects, and how my life is going to be different now. It feels like I've lost control over my future.
+SUPPORTER: What is the side effect? Do you think you are losing control over your future?
+USER: Hair loss, vomiting, among other things, make me afraid of being a burden to my family.
+SUPPORTER: Can you tell me more about the side affects of the cancer you are experiencing?
+USER: Yes, hair loss, vomiting, weakness, extreme fatigue.
+SUPPORTER: So you are worried about the possibilities of the future being different?
+USER: Yes, and being a burden to my family.
+SUPPORTER: You have to accept that your future is not the same as it could be. Are you able to talk about what is going on?
+USER: I've tried, but I don't think they really understand what it's like. Plus, I don't want to burden my family with my worries.
+SUPPORTER: Is there anything else that you can do? Maybe talking to your family?
+USER: I've tried, but I don't think they really understand what it's like. Plus, I don't want to burden my family with my worries
+SUPPORTER: What's the past? I can you try to do?
+USER: Maybe it would be good to talk to someone who actually understands what I'm going through.
+SUPPORTER: Perhaps you could be able to get a counselor or a counselor to help you?
+USER: That is a very good idea!
+SUPPORTER: I believe that you are able to do that.
+USER: Thank you
+SUPPORTER: I'm so! I hope you have a good night!
